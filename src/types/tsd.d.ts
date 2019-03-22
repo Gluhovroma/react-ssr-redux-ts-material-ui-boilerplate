@@ -1,0 +1,1 @@
+/// <reference path="./react-highcharts.d.ts" />
